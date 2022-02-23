@@ -13,5 +13,7 @@ a fuchsia flutter app
 
  Example usage:
 
- $ dart examples/driver_todo_list_scroll.dart \
-     fe80::8eae:4cff:fef4:9247 eno1
+ ```bash
+$ dart examples/driver_todo_list_scroll.dart \ 
+ fe80::8eae:4cff:fef4:9247 eno1
+```
